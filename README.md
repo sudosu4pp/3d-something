@@ -5,7 +5,7 @@ estas sesiones son diseñadas para enseñarte a crear aplicaciones web en 3D con
 
 En estas sesiones, no es necesario saber todo hasta el fondo. En lugar de eso, nos enfocaremos en seleccionar las mejores herramientas para trabajar y en enseñarte cómo utilizarlas de manera efectiva. Si hay muchas cosas que todavía no entiendes, ¡no te preocupes! Con la práctica y el tiempo, todo verá la luz.
 
-Así que, si estás listo/a para aprender a crear aplicaciones web en 3D con contenido interactivo utilizando ChatGPT y Claude+, ¡regístrate hoy mismo/a y comienza tu camino hacia el éxito en la tecnología!
+Así que, si estás listo para aprender a crear aplicaciones web en 3D con contenido interactivo utilizando ChatGPT y Claude+, ¡regístrate hoy mismo y comienza tu camino hacia el éxito en la tecnología!
 
 - React: Framework front-end popular para construir interfaces de usuario interactivas.
 - React Three Fiber: Librería que facilita la integración de escenas 3D renderizadas con React.
@@ -27,7 +27,7 @@ Durante las sesiones, construiremos lo siguiente:
 Al finalizar las sesiones, tendrás las habilidades necesarias para crear aplicaciones web en 3D con contenido interactivo utilizando ChatGPT y Claude+. Además, podrás explorar nuevas oportunidades en el campo de la tecnología y el desarrollo web.
 
 ## ¿Estás ready para comenzar?
-Si te emociona comenzar en el mundo del desarrollo web en 3D utilizando ChatGPT y Claude+, ¡regístrate hoy mismo/a y comienza tu camino hacia el éxito en la tecnología!
+Si te emociona comenzar en el mundo del desarrollo web en 3D utilizando ChatGPT y Claude+, ¡regístrate hoy mismo y comienza tu camino hacia el éxito en la tecnología!
 
 Saludos cordiales H3ctor
 
