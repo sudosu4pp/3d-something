@@ -1,10 +1,10 @@
+import '@/styles/index.css'
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import { HomeScene } from '@/scenes'
-import '@/styles/index.css'
 import studio from '@theatre/studio'
 import {Canvas} from '@react-three/fiber'
 import extension from '@theatre/r3f/dist/extension'
+import { HomeScene } from '@/scenes'
 
 studio.initialize()
 studio.extend(extension)
