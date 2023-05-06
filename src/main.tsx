@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { HomeScene } from '@/scenes'
 import '@/styles/index.css'
